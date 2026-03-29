@@ -19,8 +19,8 @@ A highly optimized web application built from the ground up prioritizing speed, 
 - **Deployment & Hosting**: [Vercel / Netlify]
 - **Content/Data**: [Markdown / Supabase / Hardcoded JSON]
 ## 📸 Screenshots
-*(Espacio para captura de la sección "Hero" con tu propuesta de valor)*
-![Hero Section](#) 
+<img width="1088" height="712" alt="image" src="https://github.com/user-attachments/assets/140e6df5-f416-42ae-9e1f-305c097c9952" />
+
 *(Espacio para captura de la sección mostrando uno de tus 3 proyectos top)*
 ![Projects Grid](#)
 ## ⚙️ Local Development
@@ -35,6 +35,6 @@ npm install
 # Start the development server
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+
 ---
 *Designed and built by **[Carlos E. Paris](https://github.com/carlosparis)** - Founder & Product Engineer at Byte Labs.*
